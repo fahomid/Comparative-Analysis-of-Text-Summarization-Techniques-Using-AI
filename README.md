@@ -18,7 +18,7 @@ pip install matplotlib rouge transformers
 To run the script, follow these steps:
 1. Ensure Python 3.6+ is installed on your machine.
 2. Install all the required packages mentioned above.
-3. Run the `MdFahomidHassan_Project2.py` Python file.
+3. Run the `script.py` Python file.
 
 ## Summarization Agents
 Three different summarization agents are utilized in this project:
